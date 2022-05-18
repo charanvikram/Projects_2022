@@ -1,5 +1,5 @@
 while True:
-	opt = int(input())
+	opt = int(input("press-0 to exit or press any number to continue"))
 	if(opt==0):
 		break
 	n = int(input("Enter a number:"))
